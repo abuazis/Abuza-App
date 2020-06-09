@@ -2,10 +2,6 @@
 
 > Choose your favorite delicious food without leaving home
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 Food delivery app project using Flutter SDK
 
 | Get Started Screen |  Login Screen   |   Food Screen   |   Cart Screen   |
