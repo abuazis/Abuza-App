@@ -18,7 +18,7 @@ Food delivery app project using Flutter SDK
 - Achievement Point
 
 ## Installing
-- git clone https://github.com/yusriltakeuchi/Tubles.git
+- git clone https://github.com/abuazis/Abuza-App.git
 - flutter packages get
 - flutter run
 
