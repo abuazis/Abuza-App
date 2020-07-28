@@ -1,6 +1,10 @@
 # Abuza
 
+[![Fork](https://img.shields.io/github/forks/abuazis/Abuza-App?style=social)](https://github.com/abuazis/Abuza-App/fork)&nbsp; [![Star](https://img.shields.io/github/stars/abuazis/Abuza-App?style=social)](https://github.com/abuazis/Abuza-App/star)&nbsp; [![Watches](https://img.shields.io/github/watchers/abuazis/Abuza-App?style=social)](https://github.com/abuazis/Abuza-App/)&nbsp;
+
 > Choose your favorite delicious food without leaving home
+
+Abuza App is a simple user interface application that showing list food from any familiar restaurant and also specific type food. In this app we showing how to checkout food it and achievement after buying the food.
 
 Food delivery app project using Flutter SDK
 
@@ -8,15 +12,25 @@ Food delivery app project using Flutter SDK
 | :----------------: | :-------------: | :-------------: | :-------------: |
 |  ![](docs/0.png)   | ![](docs/1.png) | ![](docs/3.png) | ![](docs/4.png) |
 
+## Features
+- Smooth Performance
+- Customable User Interface
+- Achievement Point
+
+## Installing
+- git clone https://github.com/yusriltakeuchi/Tubles.git
+- flutter packages get
+- flutter run
+
 ## Release History
 
-- 1.0.0
+- 1.0.0+1
   - CHANGE: APK release
 
-## Meta
+## Credit
 
 Abu Azis – [@abuzaio](https://instagram.com/abuzaio) – abuazis801@gmail.ocm
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
-[https://github.com/abuazis/Abuza-App](https://github.com/abuazis/)
+[https://github.com/abuazis](https://github.com/abuazis/)
