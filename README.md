@@ -10,7 +10,7 @@ Food delivery app project using Flutter SDK
 
 | Get Started Screen |  Login Screen   |   Food Screen   |   Cart Screen   |
 | :----------------: | :-------------: | :-------------: | :-------------: |
-|  ![](https://i.ibb.co/HVPyPZy/image.png)   | ![](ttps://i.ibb.co/5jDm65S/1.png) | ![](https://i.ibb.co/JyW0JdS/3.png) | ![](https://i.ibb.co/kSKyGrG/4.png) |
+|  ![](https://i.ibb.co/HVPyPZy/image.png)   | ![](https://i.ibb.co/5jDm65S/1.png) | ![](https://i.ibb.co/JyW0JdS/3.png) | ![](https://i.ibb.co/kSKyGrG/4.png) |
 
 ## Features
 - Smooth Performance
